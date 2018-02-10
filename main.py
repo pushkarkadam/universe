@@ -2,14 +2,7 @@ import random
 from populate import Humanoids
 from magic_functions import *
 from got_power import *
-#import numpy as np
 
-#name, race, sex, profession, powers
-
-# spock = Humanoids("Spock","Vulcan","Male","Scientist","nerve pinch","Upper level")
-# spock.introduction()
-# Humanoids.how_many()
-# spock.die()
 print("""\n\n\n
 	*******************************************************************************
 	You are the creator of this Universe.\n
