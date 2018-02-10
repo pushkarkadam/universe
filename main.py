@@ -20,7 +20,7 @@ while (balance):
 
 	if user_value == 'c' or user_value =='C':			#Creation
 		creation_list = creation()
-	elif user_value == 'd' or user_value == 'd':		#destruction
+	elif user_value == 'd' or user_value == 'D':		#destruction
 		try:
 			destroy(creation_list)
 			break
